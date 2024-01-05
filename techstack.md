@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TajAlasfiyaa/tailwindcss.com](https://github.com/TajAlasfiyaa/tailwindcss.com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|49<br/>Tools used|12/10/23 <br/>Report generated|
+|49<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
